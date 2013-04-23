@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Classe representativa de Grupos de Usuários
  * @author Thiago Cabral (tkbral@gmail.com)
  *
  */

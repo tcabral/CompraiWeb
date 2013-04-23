@@ -4,6 +4,11 @@ import java.util.Calendar;
 
 import enums.UserStatusEnum;
 
+/**
+ * Entidade representativa de um Usuário 
+ * @author Thiago Cabral (tkbral@gmail.com)
+ *
+ */
 public class User extends AbstractModel {
 
 	private String login;
